@@ -8,19 +8,18 @@
 * [CKAD Exam Guide](https://kanger.dev/new-ckad-exam-guide-certified-kubernetes-application-developer/) - Kubernetes Developers
 
 
-**AWS Certification **
+**AWS Certification**
 
 * [AWS Certifications](https://kanger.dev/aws-certification-path/) Roadmap
+
+**Cloud Security**
+
+* Responsible [Cloud Security Certifications](https://kanger.dev/engineer-cloud-security-certifications/) 
 
 
 **Cloud DevOps**
 
 * New [Cloud DevOps Certifications](https://kanger.dev/cloud-devops-bootcamps-engineers/) - Open Source 
-
-
-**Cloud Security**
-
-* Responsible [Cloud Security Certifications](https://kanger.dev/engineer-cloud-security-certifications/) 
 
 
 --- 
