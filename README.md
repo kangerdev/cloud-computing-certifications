@@ -1,4 +1,6 @@
-# Cloud Computing Certifications
+# Cloud Computing Certifications #
+
+--- 
 
 
 **Kubernetes Certification Guides**
@@ -7,19 +9,25 @@
 
 * New [CKAD Exam Guide](https://kanger.dev/new-ckad-exam-guide-certified-kubernetes-application-developer/) - Kubernetes Developers
 
+--- 
+
 
 **AWS Certification**
 
 * [AWS Certifications](https://kanger.dev/aws-certification-path/) Guide
 
+--- 
+
 **Cloud Security**
 
-* Responsible [Cloud Security Certifications](https://kanger.dev/engineer-cloud-security-certifications/) 
+* Responsible [Cloud Security Certifications](https://kanger.dev/engineer-cloud-security-certifications/)
+
+--- 
 
 
 **Cloud DevOps**
 
-* New [Cloud DevOps Certifications](https://kanger.dev/cloud-devops-bootcamps-engineers/) - Open Source 
+* New [Cloud DevOps Certifications](https://kanger.dev/cloud-devops-bootcamps-engineers/) - Open Source
 
 --- 
 
