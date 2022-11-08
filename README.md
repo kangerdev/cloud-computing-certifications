@@ -5,12 +5,12 @@
 
 * [Kubernetes Certification](https://kanger.dev/kubernetes-certification-training-paths/) Path - CKAD, CKA, CKS
 
-* [CKAD Exam Guide](https://kanger.dev/new-ckad-exam-guide-certified-kubernetes-application-developer/) - Kubernetes Developers
+* New [CKAD Exam Guide](https://kanger.dev/new-ckad-exam-guide-certified-kubernetes-application-developer/) - Kubernetes Developers
 
 
 **AWS Certification**
 
-* [AWS Certifications](https://kanger.dev/aws-certification-path/) Roadmap
+* [AWS Certifications](https://kanger.dev/aws-certification-path/) Guide
 
 **Cloud Security**
 
@@ -20,7 +20,6 @@
 **Cloud DevOps**
 
 * New [Cloud DevOps Certifications](https://kanger.dev/cloud-devops-bootcamps-engineers/) - Open Source 
-
 
 --- 
 
